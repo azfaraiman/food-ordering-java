@@ -25,6 +25,13 @@ The Order class contains the main method and extends the FoodDrinks class. The c
 - newOrder(int i, int j, int which): Registers the user's picked item.
 - displayOrder(int i, int j): Displays items in the current order number until the current item position.
 
+# Authors
+- Nur Hazwani Hanum Binti Samsudin
+- Muhammad Luqman Bin Khirulnizam
+- Maisarah Binti Alias
+- Nur Syazwani Binti Nazaruddin
+- Siti Hanisah Binti Lakman
+- Wan Azfar Aiman Bin Wan Azmi
 # Limitations
 This program has the following limitations:
 
